@@ -1,31 +1,15 @@
 {
     "name": "DeadlockStackingForMoreScience",
-    "version": "0.0.5",
+    "version": "0.0.7",
     "factorio_version": "1.1",
     "title": "Deadlock Stacking For MoreScience",
-    "author": "nihilisticpandemonium",
+    "author": "nihilistzsche",
     "homepage": "",
     "dependencies": [
         "base",
         "deadlock-beltboxes-loaders >= 2.3.0",
         "rusty-locale",
-        "(?)Clowns-AngelBob-Nuclear",
-        "(?)Clowns-Extended-Minerals",
-        "(?)Clowns-Nuclear",
-        "(?)Clowns-Processing",
-        "(?)Clowns-Science",
-        "(?)MadClownFuelsNuclear",
-        "(?)angelsrefining",
-        "(?)angelssmelting",
-        "(?)angelsinfiniteores",
-        "(?)angelspetrochem",
-        "(?)angelsbioprocessing",
-        "(?)angelsexploration",
-        "(?)angelsindustries",
-        "(?)ShinyAngelGFX",
-        "(?)DeadlockStackingForBobs",
-        "(?)DeadlockStackingForAngels",
-        "(?)MoreScience"
+        "MoreScience"
     ],
     "description": "Add stacked items for MoreScience"
 }
